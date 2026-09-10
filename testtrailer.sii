@@ -1,0 +1,164 @@
+﻿SiiNunit
+{
+trailer : trailer.testtrailer.50t
+{
+	trailer_definition: trailer_def.testtrailer.box.single_3s.50t.dryvan_s
+
+	accessories[]: .testtrailer.50t.hdr
+	accessories[]: .testtrailer.50t.wheel
+	accessories[]: .testtrailer.50t.wheel2
+	accessories[]: .testtrailer.50t.wheel3
+}
+
+vehicle_accessory : .testtrailer.50t.hdr
+{
+	data_path: "/def/vehicle/trailer_owned/testtrailer.box/data.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.50t.wheel
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.50t.wheel2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.50t.wheel3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+trailer : trailer.testtrailer.75t
+{
+	trailer_definition: trailer_def.testtrailer.box.single_3s.75t.dryvan_s
+
+	accessories[]: .testtrailer.75t.hdr
+	accessories[]: .testtrailer.75t.wheel
+	accessories[]: .testtrailer.75t.wheel2
+	accessories[]: .testtrailer.75t.wheel3
+}
+
+vehicle_accessory : .testtrailer.75t.hdr
+{
+	data_path: "/def/vehicle/trailer_owned/testtrailer.box/data.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.75t.wheel
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.75t.wheel2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.75t.wheel3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+trailer : trailer.testtrailer.100t
+{
+	trailer_definition: trailer_def.testtrailer.box.single_3s.100t.dryvan_s
+
+	accessories[]: .testtrailer.100t.hdr
+	accessories[]: .testtrailer.100t.wheel
+	accessories[]: .testtrailer.100t.wheel2
+	accessories[]: .testtrailer.100t.wheel3
+}
+
+vehicle_accessory : .testtrailer.100t.hdr
+{
+	data_path: "/def/vehicle/trailer_owned/testtrailer.box/data.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.100t.wheel
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.100t.wheel2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.100t.wheel3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+trailer : trailer.testtrailer.125t
+{
+	trailer_definition: trailer_def.testtrailer.box.single_3s.125t.dryvan_s
+
+	accessories[]: .testtrailer.125t.hdr
+	accessories[]: .testtrailer.125t.wheel
+	accessories[]: .testtrailer.125t.wheel2
+	accessories[]: .testtrailer.125t.wheel3
+}
+
+vehicle_accessory : .testtrailer.125t.hdr
+{
+	data_path: "/def/vehicle/trailer_owned/testtrailer.box/data.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.125t.wheel
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.125t.wheel2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.125t.wheel3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+trailer : trailer.testtrailer.150t
+{
+	trailer_definition: trailer_def.testtrailer.box.single_3s.150t.dryvan_s
+
+	accessories[]: .testtrailer.150t.hdr
+	accessories[]: .testtrailer.150t.wheel
+	accessories[]: .testtrailer.150t.wheel2
+	accessories[]: .testtrailer.150t.wheel3
+}
+
+vehicle_accessory : .testtrailer.150t.hdr
+{
+	data_path: "/def/vehicle/trailer_owned/testtrailer.box/data.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.150t.wheel
+{
+	offset: 0
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.150t.wheel2
+{
+	offset: 2
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+
+vehicle_wheel_accessory : .testtrailer.150t.wheel3
+{
+	offset: 4
+	data_path: "/def/vehicle/trailer_wheel/r_tire/385_55_r22_t.sii"
+}
+}
+
